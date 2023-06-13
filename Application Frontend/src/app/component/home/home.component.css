@@ -1,0 +1,13 @@
+h2 {
+    text-align: center;
+    margin-top: 5px;
+    font-weight:bold ;
+    color: black;
+}
+img {
+    width: 100vw;
+    height: 400px;
+}
+#exploreMenuSection img {
+    height: 203px;
+}
